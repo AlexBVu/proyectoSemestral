@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Times New Roman', Times, serif;
-    margin: 0;
+    margin: 0; 
     padding: 0;
     background-color: #621d1d;
     color: #333;
@@ -132,6 +132,7 @@ footer {
     padding-left: 20px;
 }
 
+/* Block below is for the text box */
 .text-block-img-left {
     display: flex; 
     justify-content: space-between; 
@@ -152,3 +153,4 @@ footer {
     width: 50%;
     height: auto;
 }
+/* Block below is for the text box */
