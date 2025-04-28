@@ -57,6 +57,15 @@ main {
     margin-bottom: 1em;
 }
 
+.poetry-text {
+    text-align: center;
+    line-height: 1.6;
+}
+
+.poetry-text-header {
+    text-align: center;
+    font-weight: bold;
+}
 .photo-grid {
     /* display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -120,6 +129,7 @@ footer {
 .text-block-left {
     flex: 1;
     margin: 0;
+    line-height: 1.4;
 }
 
 .img-right {
@@ -146,6 +156,8 @@ footer {
 .text-block-right {
     flex: 1;
     margin: 0;
+    line-height: 1.4;
+
 }
 
 .img-left {
@@ -153,4 +165,3 @@ footer {
     width: 50%;
     height: auto;
 }
-/* Block below is for the text box */
